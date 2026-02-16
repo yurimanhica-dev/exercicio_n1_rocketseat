@@ -12,3 +12,4 @@ Y:\dev\.NET\Rocketseat\Exercicios_nivel1\obj\Debug\net9.0\refint\..dll
 Y:\dev\.NET\Rocketseat\Exercicios_nivel1\obj\Debug\net9.0\..pdb
 Y:\dev\.NET\Rocketseat\Exercicios_nivel1\obj\Debug\net9.0\..genruntimeconfig.cache
 Y:\dev\.NET\Rocketseat\Exercicios_nivel1\obj\Debug\net9.0\ref\..dll
+Y:\dev\.NET\Rocketseat\Exercicios_nivel1\obj\Debug\net9.0\..sourcelink.json

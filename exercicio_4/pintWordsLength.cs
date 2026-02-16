@@ -6,11 +6,19 @@ public class pintWordsLength
     {
         Console.WriteLine("Digite uma frase:");
         string? sentence = Console.ReadLine();
-        string[] words = sentence.Split(' '); 
-
-        foreach (string word in words)
+        
+        if (sentence != null)
         {
-            Console.WriteLine($"A palavra {word} tem {word.Length} letras");
+            string[] words = sentence.Split(' '); 
+
+            foreach (string word in words)
+            {
+                Console.WriteLine($"A palavra {word} tem {word.Length} letras");
+            }
+        }
+        else
+        {
+            Console.WriteLine("A frase não foi digitada.");
         }
     }
 }

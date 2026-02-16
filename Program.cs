@@ -4,6 +4,7 @@ using exercicio_1;
 using exercicio_2;
 using Exercicios_nivel1.exercicio_3;
 using Exercicios_nivel1.exercicio_4;
+using Exercicios_nivel1.exercicio_5;
 
 class Program
 {
@@ -14,6 +15,7 @@ class Program
         Console.WriteLine("2 - Juntar Nome e Sobrenome");
         Console.WriteLine("3 - Calcular Decimal");
         Console.WriteLine("4 - Contar Letras de Palavras");
+        Console.WriteLine("5 - Verificar Placa de Carro");
 
         string? option = Console.ReadLine();
 
@@ -33,10 +35,18 @@ class Program
                 var exercicio3 = new CalculateDouble();
                 exercicio3.Calculate();
                 break;
-                
+
             case "4":
                 var exercicio4 = new pintWordsLength();
                 exercicio4.Print();
+                break;
+
+            case "5":
+                var exercicio5 = new verifyCarLicensePlate();
+                if (exercicio5.Verify())
+                    Console.WriteLine("Verdadeiro.");
+                else
+                    Console.WriteLine("Falso.");
                 break;
 
             default:
