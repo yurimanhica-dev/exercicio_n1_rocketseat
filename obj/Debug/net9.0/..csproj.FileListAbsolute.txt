@@ -1,4 +1,3 @@
-Y:\dev\.NET\Rocketseat\Exercicios_nivel1\bin\Debug\net9.0\..exe
 Y:\dev\.NET\Rocketseat\Exercicios_nivel1\bin\Debug\net9.0\..deps.json
 Y:\dev\.NET\Rocketseat\Exercicios_nivel1\bin\Debug\net9.0\..runtimeconfig.json
 Y:\dev\.NET\Rocketseat\Exercicios_nivel1\bin\Debug\net9.0\..dll

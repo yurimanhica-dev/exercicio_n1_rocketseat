@@ -16,6 +16,8 @@ class Program
         Console.WriteLine("3 - Calcular Decimal");
         Console.WriteLine("4 - Contar Letras de Palavras");
         Console.WriteLine("5 - Verificar Placa de Carro");
+        Console.WriteLine("6 - Formatar Data");
+        Console.WriteLine("0 - Sair");
 
         string? option = Console.ReadLine();
 
@@ -47,6 +49,11 @@ class Program
                     Console.WriteLine("Verdadeiro.");
                 else
                     Console.WriteLine("Falso.");
+                break;
+
+            case "6":
+                var exercicio6 = new dateFomat();
+                exercicio6.GetInputs();
                 break;
 
             default:
