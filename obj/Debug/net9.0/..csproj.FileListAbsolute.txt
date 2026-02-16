@@ -1,0 +1,14 @@
+Y:\dev\.NET\Rocketseat\Exercicios_nivel1\bin\Debug\net9.0\..exe
+Y:\dev\.NET\Rocketseat\Exercicios_nivel1\bin\Debug\net9.0\..deps.json
+Y:\dev\.NET\Rocketseat\Exercicios_nivel1\bin\Debug\net9.0\..runtimeconfig.json
+Y:\dev\.NET\Rocketseat\Exercicios_nivel1\bin\Debug\net9.0\..dll
+Y:\dev\.NET\Rocketseat\Exercicios_nivel1\bin\Debug\net9.0\..pdb
+Y:\dev\.NET\Rocketseat\Exercicios_nivel1\obj\Debug\net9.0\..GeneratedMSBuildEditorConfig.editorconfig
+Y:\dev\.NET\Rocketseat\Exercicios_nivel1\obj\Debug\net9.0\..AssemblyInfoInputs.cache
+Y:\dev\.NET\Rocketseat\Exercicios_nivel1\obj\Debug\net9.0\..AssemblyInfo.cs
+Y:\dev\.NET\Rocketseat\Exercicios_nivel1\obj\Debug\net9.0\..csproj.CoreCompileInputs.cache
+Y:\dev\.NET\Rocketseat\Exercicios_nivel1\obj\Debug\net9.0\..dll
+Y:\dev\.NET\Rocketseat\Exercicios_nivel1\obj\Debug\net9.0\refint\..dll
+Y:\dev\.NET\Rocketseat\Exercicios_nivel1\obj\Debug\net9.0\..pdb
+Y:\dev\.NET\Rocketseat\Exercicios_nivel1\obj\Debug\net9.0\..genruntimeconfig.cache
+Y:\dev\.NET\Rocketseat\Exercicios_nivel1\obj\Debug\net9.0\ref\..dll
